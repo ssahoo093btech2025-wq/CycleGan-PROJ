@@ -1,3 +1,3 @@
 ## Certifications & Badges
 
-![Generative AI Badge](generative_ai_badge.png)
+![Generative AI Badge](generative_ai_badge.png.png)
